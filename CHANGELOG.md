@@ -1,8 +1,9 @@
 ## Change Log
 ### [Unreleased][unreleased]
 
-### [3e654a1] - 2023-05-05
+### [bf0f782] - 2023-05-05
 #### Added
+- initial commit
 
 [unreleased]: https://github.com/digilopment/changelog-generator/compare/3e654a1...HEAD
-[3e654a1]: https://github.com/digilopment/changelog-generator/commit/3e654a1
+[bf0f782]: https://github.com/digilopment/changelog-generator/commit/bf0f782
